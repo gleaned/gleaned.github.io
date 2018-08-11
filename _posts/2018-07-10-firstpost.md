@@ -6,7 +6,7 @@ subtitle: Jill Bolte Taylor
 
 *Author:* Jill Bolte Taylor
 
-Language: I liked the language, it was vivid, expressive and informative (I don't recall it being pretentious or ostentatious). 
+*Language:* I liked the language, it was vivid, expressive and informative (I don't recall it being pretentious or ostentatious). 
 
 Style: It was nice but at times annoyingly repetitive. Would've been much more pleasant if it were concise.
 
