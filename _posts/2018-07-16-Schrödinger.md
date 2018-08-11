@@ -3,7 +3,7 @@ layout: post_page
 title: What is life?
 ---
 
-An interesting short book. Enjoyed almost all of the "What is life?" part. The "Mind and Matter" part has some rather boring things (for me that is) but then some parts are insanely interesting. The Autobiography is fine for reading once; nothing particularly enlightening.
+> An interesting short book. Enjoyed almost all of the "What is life?" part. The "Mind and Matter" part has some rather boring things (for me that is) but then some parts are insanely interesting. The Autobiography is fine for reading once; nothing particularly enlightening.
 
 *Author*: **E. Schrödinger**
 
