@@ -1,0 +1,87 @@
+/*
+Error: Undefined mixin 'clearfix'.
+        on line 8 of C:/Users/toatu/SparkleShare/gleaned.github.io/css/sass/boot/_responsive-utilities.scss, in `clearfix'
+        from line 8 of C:/Users/toatu/SparkleShare/gleaned.github.io/css/sass/boot/_responsive-utilities.scss
+        from line 18 of C:/Users/toatu/SparkleShare/gleaned.github.io/css/sass/boot/responsive.scss
+
+3: // For phone and tablet devices
+4: // -------------------------------------------------------------
+5: 
+6: 
+7: // REPEAT VARIABLES & MIXINS
+8: // -------------------------
+9: // Required since we compile the responsive stuff separately
+10: 
+11: //@import "variables"; // Modify this for custom colors, font-sizes, etc
+12: //@import "mixins";
+13: 
+
+Backtrace:
+C:/Users/toatu/SparkleShare/gleaned.github.io/css/sass/boot/_responsive-utilities.scss:8:in `clearfix'
+C:/Users/toatu/SparkleShare/gleaned.github.io/css/sass/boot/_responsive-utilities.scss:8
+C:/Users/toatu/SparkleShare/gleaned.github.io/css/sass/boot/responsive.scss:18
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:348:in `visit_mixin'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:98:in `with_mixin'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:115:in `with_frame'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:98:in `with_mixin'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:346:in `visit_mixin'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/base.rb:36:in `visit'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `visit'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:79:in `with_base'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:115:in `with_frame'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:79:in `with_base'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `visit'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:430:in `visit_rule'
+org/jruby/RubyArray.java:2412:in `map'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:430:in `visit_rule'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:428:in `visit_rule'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/base.rb:36:in `visit'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `visit'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:79:in `with_base'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:115:in `with_frame'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:79:in `with_base'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `visit'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:325:in `visit_import'
+org/jruby/RubyArray.java:2412:in `map'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:325:in `visit_import'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:88:in `with_import'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:115:in `with_frame'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:88:in `with_import'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:322:in `visit_import'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/base.rb:36:in `visit'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `visit'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:79:in `with_base'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:115:in `with_frame'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/stack.rb:79:in `with_base'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `visit'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+org/jruby/RubyArray.java:2412:in `map'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:167:in `visit_children'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:166:in `visit_children'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/base.rb:36:in `visit'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:186:in `visit_root'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/base.rb:36:in `visit'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:157:in `visit'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/visitors/perform.rb:8:in `visit'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/root_node.rb:36:in `css_tree'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/tree/root_node.rb:20:in `render'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/engine.rb:268:in `render'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/plugin/compiler.rb:492:in `update_stylesheet'
+org/jruby/RubyMethod.java:128:in `call'
+file:/C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/compass-app.jar!/hook/compass_patch.rb:108:in `update_stylesheet'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/plugin/compiler.rb:215:in `update_stylesheets'
+org/jruby/RubyArray.java:1613:in `each'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/sass-3.4.13/lib/sass/plugin/compiler.rb:293:in `watch'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/compass-1.0.3/lib/compass/sass_compiler.rb:46:in `watch!'
+C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/lib/ruby/compass_1.0/compass-1.0.3/lib/compass/commands/watch_project.rb:41:in `perform'
+file:/C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/compass-app.jar!/app_watcher.rb:12:in `watch!'
+file:/C:/Users/toatu/Downloads/compass.app.windows.1.29/compass.app/compass-app.jar!/ui/tray.rb:447:in `watch'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined mixin 'clearfix'.\A         on line 8 of C:/Users/toatu/SparkleShare/gleaned.github.io/css/sass/boot/_responsive-utilities.scss, in `clearfix'\A         from line 8 of C:/Users/toatu/SparkleShare/gleaned.github.io/css/sass/boot/_responsive-utilities.scss\A         from line 18 of C:/Users/toatu/SparkleShare/gleaned.github.io/css/sass/boot/responsive.scss\A \A 3: // For phone and tablet devices\A 4: // -------------------------------------------------------------\A 5: \A 6: \A 7: // REPEAT VARIABLES & MIXINS\A 8: // -------------------------\A 9: // Required since we compile the responsive stuff separately\A 10: \A 11: //@import \"variables\"; // Modify this for custom colors, font-sizes, etc\A 12: //@import \"mixins\";\A 13: "; }
