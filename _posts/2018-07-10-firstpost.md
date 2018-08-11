@@ -1,6 +1,7 @@
 ---
 layout: post_page
 title: My stroke of insight 
+subtitle: Jill Bolte Taylor
 ---
 
 Author: Jill Bolte Taylor
