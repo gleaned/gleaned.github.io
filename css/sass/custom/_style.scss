@@ -171,6 +171,15 @@ main.container, main.content > .container{
         letter-spacing: 0.6em;
     }
 
+    h4{
+         @extend .center-txt;        
+        font-family: 'Noto Serif';
+        text-transform: uppercase;
+        font-weight: normal;
+        letter-spacing: 0.6em;
+    }
+
+
     h2{
         font-family: Georgia, 'Times New Roman', Times, serif;
         @extend .center-txt;
