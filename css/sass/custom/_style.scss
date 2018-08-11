@@ -178,8 +178,17 @@ main.container, main.content > .container{
         letter-spacing: 0.05em;
     }
 
+    h3{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        @extend .center-txt;
+        font-size: 3em;
+        padding: 1.5em 0 0.5em;
+        letter-spacing: 0.05em;
+    }
+
     section{
         font-family: 'Noto Serif';
+        font-size: 2em;
         line-height: 1.9em;
     }
 }
