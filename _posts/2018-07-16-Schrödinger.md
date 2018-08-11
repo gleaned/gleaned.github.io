@@ -3,13 +3,13 @@ layout: post_page
 title: What is life?
 abstract: An interesting short book. Enjoyed almost all of the "What is life?" part. The "Mind and Matter" part has some rather boring things (for me that is) but then some parts are insanely interesting. The Autobiography is fine for reading once; nothing particularly enlightening.
 ---
+> An interesting short book. Enjoyed almost all of the "What is life?" part. The "Mind and Matter" part has some rather boring things (for me that is) but then some parts are insanely interesting. The Autobiography is fine for reading once; nothing particularly enlightening.
 
 
 *Author*: **E. Schrödinger**
 
 *Language*: It is slightly dated but crisp without being pompous. The word timbre was an interesting discovery.
 
-> An interesting short book. Enjoyed almost all of the "What is life?" part. The "Mind and Matter" part has some rather boring things (for me that is) but then some parts are insanely interesting. The Autobiography is fine for reading once; nothing particularly enlightening.
 
 *Impression (long)*: The first part of the book is incredibly interesting. It is titled “What is life?” and the book is titled after this, of course. It starts from describing what one would expect, from classical physics, to be the state of affairs for describing life and reach some sort of failure at accounting for its vividness. The book does a great job, however, at explaining very many striking features of statistical mechanics which on the face of it seem to have a purpose, like drop of ink spreading through a liquid as though wanting to diffuse into areas with no ink, but at the microscopic level are following innocuous laws, moving irrespective of the colour like a random walk. 
 
