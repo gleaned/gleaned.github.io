@@ -66,6 +66,7 @@ main.container, main.content > .container{
 
 .content{
     background-color: $white;
+    font-size: 4em;
     & > .container{
        min-height: 58em;  
     }
