@@ -2,13 +2,16 @@
 layout: post_page
 title: What is life?
 ---
-Author: E. Schrödinger
 
-Language: It is slightly dated but crisp without being pompous. The word timbre was an interesting discovery.
+An interesting short book. Enjoyed almost all of the "What is life?" part. The "Mind and Matter" part has some rather boring things (for me that is) but then some parts are insanely interesting. The Autobiography is fine for reading once; nothing particularly enlightening.
 
-Impression (short): An interesting short book. Enjoyed almost all of the "What is life?" part. The "Mind and Matter" part has some rather boring things (for me that is) but then some parts are insanely interesting. The Autobiography is fine for reading once; nothing particularly enlightening.
+*Author*: **E. Schrödinger**
 
-Impression (long): The first part of the book is incredibly interesting. It is titled “What is life?” and the book is titled after this, of course. It starts from describing what one would expect, from classical physics, to be the state of affairs for describing life and reach some sort of failure at accounting for its vividness. The book does a great job, however, at explaining very many striking features of statistical mechanics which on the face of it seem to have a purpose, like drop of ink spreading through a liquid as though wanting to diffuse into areas with no ink, but at the microscopic level are following innocuous laws, moving irrespective of the colour like a random walk. 
+*Language*: It is slightly dated but crisp without being pompous. The word timbre was an interesting discovery.
+
+*Impression (short)*: An interesting short book. Enjoyed almost all of the "What is life?" part. The "Mind and Matter" part has some rather boring things (for me that is) but then some parts are insanely interesting. The Autobiography is fine for reading once; nothing particularly enlightening.
+
+*Impression (long)*: The first part of the book is incredibly interesting. It is titled “What is life?” and the book is titled after this, of course. It starts from describing what one would expect, from classical physics, to be the state of affairs for describing life and reach some sort of failure at accounting for its vividness. The book does a great job, however, at explaining very many striking features of statistical mechanics which on the face of it seem to have a purpose, like drop of ink spreading through a liquid as though wanting to diffuse into areas with no ink, but at the microscopic level are following innocuous laws, moving irrespective of the colour like a random walk. 
 
 The other approach is to look at hereditary and work backwards to find the size of this inheritable object. Note that when this was written by Schrödinger the structure of DNA had still not been discovered. He then explains the notion of alleles and how the changes are discrete somehow at the level of this inheritable substance. He relates this to quantum jumps and not in a “The Emperor's New Mind” kind of way (of which I must admit I have only heard but enough to be reasonably confident) but in the usual way of chemistry of a large molecule and its allowed configurations. He goes on a bit more than I could have liked about evolution possibly because I had taken some courses thereof earlier. There were some interesting things that were brought up such as saturation of changes due to evolution as have been observed in some species and the risk of extreme human behaviours such as wars and improved health care. There were some interesting discussions of living organisms requiring a “stream of order” to survive which was surprising even though partly expected as it arose from a discussion on entropy and life. 
 
