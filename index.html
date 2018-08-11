@@ -17,7 +17,8 @@ title: Mainpage
     		    <a href="{{ post.url }}">
                       <span>{{ post.date | date: "%d %B %Y" }}</span>
     		        <h3>{{ post.title }}</h3>
-                      <div>{{ post.abstract |truncatehtml | truncatewords: 30 }}</div>
+                      <span>{{ post.author }}</span>
+                      <div>{{ post.abstract |truncatehtml | truncatewords: 30 }}</div>                      
     		    </a>
     		  </li>
     		{% endfor %}
