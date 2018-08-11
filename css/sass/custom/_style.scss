@@ -33,8 +33,7 @@ main.container, main.content > .container{
 
 @font-face {
   font-family: 'Noto Serif';
-  font-style: normal;
-  font-size: 10em;
+  font-style: normal;  
   font-weight: 400;
   src: local('Noto Serif'), local('NotoSerif'), url(http://themes.googleusercontent.com/static/fonts/notoserif/v1/eCpfeMZI7q4jLksXVRWPQxsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
 }
@@ -74,7 +73,7 @@ main.container, main.content > .container{
 .content h1{
     font-family: Georgia, "Times New Roman", Times, serif;
      @extend .center-txt;
-    font-size: 6em;  
+    font-size: 9em;  
     margin-top: 1em;
     border-bottom: 1px solid $grayDarker;
     padding-bottom: 0.6em;
