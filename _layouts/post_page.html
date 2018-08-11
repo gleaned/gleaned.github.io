@@ -14,9 +14,9 @@ layout: default
 			<article class="post">
 				<h5>{{ page.date | date: "%d %B %Y" }}</h5>
 				<h2 class="content">{{page.title}}</h2>
-				<h5>{{page.author}}</h5>
+				<h5 class="post">{{page.author}}</h5>
 				<!-- <h4 >{{page.author}}</h4> -->
-				<section style="font-size:20px;">		
+				<section class="content" style="font-size:20px;">		
 					<blockquote><p>{{page.abstract}}</p></blockquote>
 					{{ content }}
 					<hr>
