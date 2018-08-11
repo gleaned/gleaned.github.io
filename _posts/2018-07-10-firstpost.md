@@ -4,7 +4,7 @@ title: My stroke of insight
 subtitle: Jill Bolte Taylor
 ---
 
-Author: Jill Bolte Taylor
+*Author:* Jill Bolte Taylor
 
 Language: I liked the language, it was vivid, expressive and informative (I don't recall it being pretentious or ostentatious). 
 
