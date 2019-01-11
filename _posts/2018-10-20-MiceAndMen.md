@@ -1,7 +1,7 @@
 ---
 layout: post_page
 title: Of Mice and Men
-abstract: Fiction. Short.
+abstract: Fiction. Short. A story of two men and how they stick together through trying times. The ending was surprising despite being somewhat predictable. Nicely written but certainly not my taste.
 author: John Steinbeck
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post_page
 title: Fermat's Last Theorem
-abstract: (TODO: complete)
+abstract: A highly entertaining, informative and gripping account of how one of the ultimate problems in mathematics was solved 
 author: Simon Singh
 ---
 
