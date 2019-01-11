@@ -1,7 +1,7 @@
 ---
 layout: post_page
 title: Fermat's Last Theorem
-abstract: A highly entertaining, informative and gripping account of how one of the ultimate problems in mathematics was solved 
+abstract: A highly entertaining, informative and gripping account of how one of the most celebrated problems in mathematics was solved by Andrew Wiles. In addition to being sprinkled with memorable anecdotes, nearly all the major concepts involved have been explained with an uncanny clarity.
 author: Simon Singh
 ---
 
