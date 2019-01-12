@@ -23,7 +23,11 @@ Aside: Wolfskehl was depressed after being rejected by a woman. This episode (de
 
 Decidability has its roots in David Hilbert's programme that was designed to achieve the belief "everything in mathematics could and should be proved from the basic axioms." The other requirement was that of consistency, viz. mathematics should be free of inconsistencies—if something is proved true by one method, it shouldn't be possible to show it's false by another method. Frege had made remarkable progress in Hilbert's programme. Then unwittingly, Russel ended up finding a contradiction which arose from Frege's own work making mathematics inconsistent (TODO: add Russel's paradox from the book). There were then efforts to fix things and it seemed like "mathematics was on the road to recovery". This was to receive a fatal blow by Gödel's work which proved that "trying to construct a complete and consistent mathematical system was an impossible task". Roughly, the first theorem was (completeness): *If an axiomatic set theory is consistent, then there exist theorems which can neither be proved or disproved.* The second theorem was (proving consistency): *There is no constructive procedure which will prove on axiomatic theory to be consistent*. Fermat's last theorem could be undecidable which would explain why nobody had been able to prove it. 
 
-Numerical evidence was gathered (thanks to the advances in computational power made during the war years as cryptanalysis began playing a decisive role). This was not enough. Example: 31; 331; 3,331; 33,331; 333,331; 3,333,3331; 33,333,331 all were shown to be primes (by Seventeenth century mathematicians) but then 333,333,331 turned out to not be a prime and equals 17x19,607,843. 
+Numerical evidence was gathered (thanks to the advances in computational power made during the war years as cryptanalysis began playing a decisive role). This was not enough. 
+
+Example A: 31; 331; 3,331; 33,331; 333,331; 3,333,3331; 33,333,331 all were shown to be primes (by Seventeenth century mathematicians) but then 333,333,331 turned out to not be a prime and equals 17x19,607,843. 
+
+Example B: $$x^4 + y^4 + z^4 = w^4$$ was conjectured by Euler to not have any integer solutions. Then a counter example was found by Naom Elkies (Harvard University) $$2,682,440^4 + 15,365,639^4 + 18,796,760^4 = 20,615,673^4$$. 
 
 Elliptic equations and Modular Forms: (TODO: Introduce E-series and M-series)
 
