@@ -27,7 +27,9 @@ Numerical evidence was gathered (thanks to the advances in computational power m
 
 Example A: 31; 331; 3,331; 33,331; 333,331; 3,333,3331; 33,333,331 all were shown to be primes (by Seventeenth century mathematicians) but then 333,333,331 turned out to not be a prime and equals 17x19,607,843. 
 
-Example B: $$x^4 + y^4 + z^4 = w^4$$ was conjectured by Euler to not have any integer solutions. Then a counter example was found by Naom Elkies (Harvard University) $$2,682,440^4 + 15,365,639^4 + 18,796,760^4 = 20,615,673^4$$. 
+Example B: $$x^4 + y^4 + z^4 = w^4$$ was conjectured by Euler to not have any integer solutions. Then a counter example was found by Naom Elkies (Harvard University) $$2,682,440^4 + 15,365,639^4 + 18,796,760^4 = 20,615,673^4$$. He later showed there are infinitely many solutions.
+
+
 
 Elliptic equations and Modular Forms: (TODO: Introduce E-series and M-series)
 
