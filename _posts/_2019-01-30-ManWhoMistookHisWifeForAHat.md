@@ -61,3 +61,8 @@ author: Oliver Sacks
 
   
 
+Part 3
+
+* Story 15: Reminiscence
+  * Ms O'C: Heard songs from Ireland; could actually feel being in her mother's arms while she was in the hospital; she could see the hospital fade away.
+  * Ms O'M. Heard voices, sometimes many.
