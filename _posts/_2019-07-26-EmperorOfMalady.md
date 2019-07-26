@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: Surely you're joking Mr Feynman
+title: The Emperor of All Maladies
 abstract: 
 author: 
 ---
