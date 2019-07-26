@@ -13,34 +13,15 @@ author:
 
 **Notes**
 
-* Story with the glass and the waitress
-* Observing dreams
-* Metal plating company
-* Story with the door
-* How he wasn't social
-* Story with the deaf society
-* Ant adventures
-* Safe-cracking
-* Psychiatrist
-* Los Alamos
-* Counter-offers from CalTech and Cornell
-* Las Vegas, Gambling adventures, Nightclub story etc.
-* Hallucinations
-* [minor insight] Education review, assessing books (some folks had assessed a blank book; story about averaging over negligent experts; summing temperatures of stars)
-* [minor insight] About the Nobel Prize (misgivings about the royalty etc, joke about uselessness of diplomatic study)
-* [not much insight] Story with the Bongo
-* Honesty in Science, the story about the rats running in a maze (and the tapping)
+* Leukaemia: There's acute and chronic. The former suddenly erupts. The latter gradually. It's a blood disease (cancer really) where the white blood cells reproduce uncontrollably. In the acute case (sudden eruption) these cells don't even develop completely. 
+  This was first chosen for study because it could be measured (draw blood and find the concentration of white blood cells). Other forms of cancer couldn't even be handled. 
+  * Vitamin B in one of the cases played a role. TODO: recall
+  * In the case with malnourished workers in colonial India, there was another chemical involved (creatine? no; ATP? I forgot; perhaps it was Folic Acid)
+  * Folic Acid for Leukaemia in children made it worse; an anti-biotic was suggested. This seemed to miraculously work, but only for a while.
 
 
 
-Interesting Personal Takeaways
+**Interesting Personal Takeaways**
 
-* "You're not responsible for the world" (Disagree; if you accept the privilege, you are)
-* Importance of teaching
-  * Painful when you're doing research and it is interrupted.
-  * Needed when you run out of ideas; gives you a sense of contribution and of purpose.
-  * e.g. of IAS at Princeton and all the fancy folks with their dropped efficiency.
-* Importance of persistence
-  * He had learnt how to draw, as a way of being able to appreciate how to draw. Incidentally, he had drawn a portrait of Dirac and Dirac kept it with him
-* Being playful but honest
-  * The point where he was depressed and not having an interest in physics, to working out the motion of a Frisbee with some plate inside, which got him gradually (through unexpected logical connections) back to quantum electrodynamics
+* Farber, he was 
+* Val (forgot his name), he had had his medical training in India(?) but his license didn't work in the US. He worked as a staff member in a hospital, changing sheets and cleaning urinals. Ran into Farber, started a day job as a researcher, went on to develop ways of isolating ATP and creatine (power carriers in muscles); eventually to producing some biochemicals (like Folic Acid  I guess) and then later, chemicals that behaved as anti-biotics for these biochemicals.
